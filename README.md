@@ -6,4 +6,4 @@
 (https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=webhooks-course)
 
 
-[@craigsdennis](https://twitter.com/craigsdennis)
+
